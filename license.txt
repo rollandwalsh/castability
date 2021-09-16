@@ -1,0 +1,8 @@
+/*******************************************************
+ * Copyright (C) 2020-2022 Rolland Wash <rolland.walsh@castability.actor>
+ * 
+ * This file is part of Castability App.
+ * 
+ * Castability App can not be copied and/or distributed without the express
+ * permission of Rolland Walsh
+ *******************************************************/
