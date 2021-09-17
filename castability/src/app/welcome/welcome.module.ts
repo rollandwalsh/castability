@@ -6,6 +6,7 @@ import { IonicModule } from '@ionic/angular';
 
 import { WelcomePageRoutingModule } from './welcome-routing.module';
 
+import { HeaderComponent } from '../header/header.component';
 import { WelcomePage } from './welcome.page';
 
 @NgModule({
@@ -15,6 +16,9 @@ import { WelcomePage } from './welcome.page';
     IonicModule,
     WelcomePageRoutingModule
   ],
-  declarations: [WelcomePage]
+  declarations: [
+    WelcomePage,
+    HeaderComponent
+  ]
 })
 export class WelcomePageModule {}
